@@ -73,5 +73,5 @@ Project Team
 Project Manager: Reyna Stargaze
 Full Stack Developer: Ian Mosely
 License
-This project is a proprietary development for RoboKits Inc. All rights reserved.
+This project is a proprietary development for ABC RoboKits Inc. All rights reserved.
 
